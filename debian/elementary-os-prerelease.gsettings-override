@@ -1,0 +1,6 @@
+[desktop.Wallpaper]
+picture-path='/usr/share/backgrounds/elementary-os-prerelease.png'
+
+[org.gnome.desktop.background]
+picture-uri='file:///usr/share/backgrounds/elementary-os-prerelease.png'
+picture-options='zoom'
