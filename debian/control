@@ -8,8 +8,8 @@ Standards-Version: 3.9.2
 Package: elementary-os-prerelease
 Architecture: all
 Depends: ${misc:Depends}
-Recommends: elementaryos-report-problem-dockitem, apport-gtk
-Replaces: python-apport, elementarywalls (<< 0.1.4-0~26~)
+Recommends: apport-gtk, elementaryos-report-problem-dockitem
+Replaces: elementarywalls (<< 0.1.4-0~26~), python-apport
 Breaks: apport (<< 2.0), elementarywalls (<< 0.1.4-0~26~)
 Description: elementary default settings
  This package contains items which should be present only in prerelease builds
