@@ -1,2 +1,3 @@
 apport /etc/
 backgrounds /usr/share/
+luna-apport-blacklist /etc/apport/blacklist.d/
