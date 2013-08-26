@@ -1,3 +1,4 @@
-apport /etc/
+# Only enable if based on stable Ubuntu release:
+#apport /etc/
 backgrounds /usr/share/
 luna-apport-blacklist /etc/apport/blacklist.d/
