@@ -4,3 +4,6 @@ picture-path='/usr/share/backgrounds/elementaryos-default'
 [org.gnome.desktop.background]
 picture-uri='file:///usr/share/backgrounds/elementaryos-default'
 picture-options='zoom'
+
+[org.pantheon.wallpaper]
+picture-path='/usr/share/backgrounds/Blueprint.jpg'
