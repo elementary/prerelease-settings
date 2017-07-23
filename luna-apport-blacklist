@@ -1,2 +1,0 @@
-# Blacklist telepathy-idle because there's a crash that happens when the system goes offline without changing Empathy's status first
-/usr/lib/telepathy/telepathy-idle
