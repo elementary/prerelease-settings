@@ -1,16 +1,13 @@
 Source: elementary-os-prerelease
 Section: gnome
 Priority: optional
-Maintainer: Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>
-Build-Depends: debhelper (>= 8.1.3~)
-Standards-Version: 3.9.2
+Maintainer: Cody Garver <cody@elementary.io>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
 
 Package: elementary-os-prerelease
 Architecture: all
 Depends: ${misc:Depends}
-Pre-Depends: dpkg (>= 1.15.6)
-Replaces: elementarywalls (<< 0.1.4-0~26~)
-Breaks: elementarywalls (<< 0.1.4-0~26~)
 Description: elementary default settings
  This package contains items which should be present only in prerelease builds
  of elementary OS.
